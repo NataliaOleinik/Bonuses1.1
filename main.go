@@ -9,5 +9,5 @@ func main() {
 	if bonus > limit {
 		bonus = limit
 	}
-	println(bonus) // должно быть 33* (см. объяснение ниже)
+	println(bonus)
 }
